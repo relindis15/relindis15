@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=relindis15" alt="relindis15" /></a> </p>
 
-- 🌱 I’m currently working **Devops Engineer**
+- 🌱 I’m currently working as a **Devops Engineer**
 
 - 📫 How to reach me **onarirelindisblessed@gmail.com**
 
